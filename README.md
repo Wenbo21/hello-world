@@ -1,6 +1,4 @@
 # hello-world
-Just another Repository
+Older player shows:
 
-Hi humans!
-
-Wenbo here. I like python.
+Younger player shows:
